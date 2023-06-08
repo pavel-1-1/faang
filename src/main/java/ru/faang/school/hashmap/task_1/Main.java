@@ -10,6 +10,7 @@ public class Main {
         addHome("Lan", "altai");
         addHome("Bas", "USA");
         addHome("Wint", "IRLAN");
+        addHome("Rilo", "USA");
 
         search("Lan");
         allHome();
